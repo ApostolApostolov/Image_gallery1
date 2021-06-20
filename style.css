@@ -1,0 +1,22 @@
+body {
+  padding-top: 70px;
+}
+.jumbotron {
+  color: #2c3e50;
+  margin: 5%;
+  background: #ecf0f1;
+  padding: 50px;
+  border-radius: 25px;
+}
+.navbar {
+  background: #2c3e50;
+}
+.navbar-nav .nav-link {
+  color: white;
+}
+.navbar-brand {
+  color: white;
+}
+.img-thumbnail {
+  margin-bottom: 10px;
+}
